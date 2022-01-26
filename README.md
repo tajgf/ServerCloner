@@ -1,7 +1,8 @@
 This is for educational purpose
 
 []------------------------------------------------------[]
-                  How To Use GF CLONER
+
+How To Use GF CLONER:
 1. Run GF CLONER.exe
 2. Input your token
 3. Enter server Id you want to copy
