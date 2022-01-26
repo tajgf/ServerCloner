@@ -8,6 +8,8 @@ This is for educational purpose
 4. Enter your server Id you want to paste the server
 5. Wait about 20-1minute (it will take longer if it has alot of channels)
 6. And boom, you have cloned a server!
+
+
 []------------------------------------------------------[]
                         READ THIS
 Do not delete System.exe or else it will not work!
